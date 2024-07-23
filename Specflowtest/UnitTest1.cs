@@ -5,6 +5,7 @@ namespace Specflowtest
         [SetUp]
         public void Setup()
         {
+            Console.WriteLine("Hello");
         }
 
         [Test]
